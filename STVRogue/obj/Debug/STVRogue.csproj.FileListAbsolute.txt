@@ -1,0 +1,6 @@
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/obj/Debug/STVRogue.csproj.CoreCompileInputs.cache
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/obj/Debug/STVRogue.csprojResolveAssemblyReference.cache
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/bin/Debug/STVRogue.dll
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/bin/Debug/STVRogue.pdb
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/obj/Debug/STVRogue.dll
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue/obj/Debug/STVRogue.pdb

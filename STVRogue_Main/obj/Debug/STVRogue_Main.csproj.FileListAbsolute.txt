@@ -1,0 +1,9 @@
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/bin/Debug/STVRogue_Main.exe.config
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/bin/Debug/STVRogue_Main.exe
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/bin/Debug/STVRogue_Main.pdb
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/bin/Debug/STVRogue.dll
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/bin/Debug/STVRogue.pdb
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/obj/Debug/STVRogue_Main.csprojResolveAssemblyReference.cache
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/obj/Debug/STVRogue_Main.csproj.CoreCompileInputs.cache
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/obj/Debug/STVRogue_Main.exe
+/Users/buseece/Desktop/INFOB3STV/STVrogue-master/STVRogue_Main/obj/Debug/STVRogue_Main.pdb
